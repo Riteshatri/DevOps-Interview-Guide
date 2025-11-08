@@ -145,8 +145,9 @@ This guide is designed to help engineers **revise, bookmark, and track** topics 
 **Ritesh Sharma**  
 💼 *DevOps Engineer | Azure | Terraform | CI/CD | Cloud Automation*  
 
-🌐 [LinkedIn](https://www.linkedin.com/in/riteshatri)  
-💻 [GitHub](https://github.com/Riteshatri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteshatri)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riteshatri)
+
 
 ![GitHub followers](https://img.shields.io/github/followers/riteshatri?label=Follow%20Me&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/riteshatri/devops-interview-guide?style=social)
