@@ -7,7 +7,7 @@
 ![Language](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![UI](https://img.shields.io/badge/Tailwind%20CSS%20+%20shadcn/ui-8B5CF6?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Hosting](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-black?style=for-the-badge&logo=githubpages&logoColor=white)
----
+
 ```
 ## 🧭 Overview  
 
