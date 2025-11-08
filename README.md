@@ -22,7 +22,7 @@
 🎯 **Your Complete DevOps Interview Preparation Guide**  
 > “Comprehensive collection of interview questions for Terraform, Azure, Docker, and Kubernetes — everything you need to ace your next DevOps interview.”
 
-🌐 **Visit:** [https://kridhaatri.github.io/devops-interview-guide](https://kridhaatri.github.io/devops-interview-guide)
+🌐 **Visit:** [https://riteshatri.github.io/DevOps-Interview-Guide/](https://riteshatri.github.io/DevOps-Interview-Guide/)
 
 ---
 
