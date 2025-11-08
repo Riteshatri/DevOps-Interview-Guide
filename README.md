@@ -1,6 +1,6 @@
 # 🌐 DevOps Interview Guide  
 
-[![Live Site](https://img.shields.io/badge/🔵%20Live%20Website-Visit%20Now-2b65ec?style=for-the-badge&logo=githubpages&logoColor=white)](https://riteshatri.github.io/devops-interview-guide)
+[![Live Site](https://img.shields.io/badge/🔵%20Live%20Website-Visit%20Now-2b65ec?style=for-the-badge&logo=githubpages&logoColor=white)](https://riteshatri.github.io/DevOps-Interview-Guide/)
 ![Status](https://img.shields.io/badge/Project-Active-success?style=for-the-badge&logo=github&logoColor=white)
 ![Framework](https://img.shields.io/badge/Built%20with-Next.js%20+%20React-61DAFB?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Language](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
