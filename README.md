@@ -1,15 +1,16 @@
 # 🌐 DevOps Interview Guide  
 
 [![Live Site](https://img.shields.io/badge/🔵%20Live%20Website-Visit%20Now-2b65ec?style=for-the-badge&logo=githubpages&logoColor=white)](https://riteshatri.github.io/DevOps-Interview-Guide/)
-```
 ![Status](https://img.shields.io/badge/Project-Active-success?style=for-the-badge&logo=github&logoColor=white)
-![Framework](https://img.shields.io/badge/Built%20with-Next.js%20+%20React-61DAFB?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Framework](https://img.shields.io/badge/Built%20with-Vite%20+%20React-61DAFB?style=for-the-badge&logo=vite&logoColor=white)
 ![Language](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![UI](https://img.shields.io/badge/Tailwind%20CSS%20+%20shadcn/ui-8B5CF6?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Hosting](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-black?style=for-the-badge&logo=githubpages&logoColor=white)
 
-```
-## 🧭 Overview  
+---
+
+## 🧭 Overview
+ 
 
 **DevOps Interview Guide** is a **beautifully designed interactive portal** for mastering **DevOps interviews** — featuring categorized Q&A collections for Terraform, Azure, Docker, Kubernetes, Git, Linux, Monitoring, and more.  
 
