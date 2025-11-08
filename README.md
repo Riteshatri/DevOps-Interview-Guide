@@ -142,7 +142,7 @@ This guide is designed to help engineers **revise, bookmark, and track** topics 
 
 ## 👨‍💻 Author  
 
-**Ritesh Sharma**  
+**_[Ritesh Sharma](https://www.linkedin.com/in/riteshatri/)_**  
 💼 *DevOps Engineer | Azure | Terraform | CI/CD | Cloud Automation*  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteshatri)
