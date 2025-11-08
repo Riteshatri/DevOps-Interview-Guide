@@ -1,18 +1,11 @@
 # 🌐 DevOps Interview Guide  
 
 [![Live Site](https://img.shields.io/badge/🔵%20Live%20Website-Visit%20Now-2b65ec?style=for-the-badge&logo=githubpages&logoColor=white)](https://riteshatri.github.io/DevOps-Interview-Guide/)
-
-```
-<p align="center">
-  <img src="https://img.shields.io/badge/🔵%20Live%20Website-Visit%20Now-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white" />
-  <img src="https://img.shields.io/badge/Project-Active-success?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Built%20with-Vite%20+%20React-9333EA?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS%20+%20shadcn/ui-8B5CF6?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
-</p>
-
-
+![Status](https://img.shields.io/badge/Project-Active-success?style=for-the-badge&logo=github&logoColor=white)
+![Framework](https://img.shields.io/badge/Built%20with-Next.js%20+%20React-61DAFB?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Language](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![UI](https://img.shields.io/badge/Tailwind%20CSS%20+%20shadcn/ui-8B5CF6?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Hosting](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-black?style=for-the-badge&logo=githubpages&logoColor=white)
 ---
 
 ## 🧭 Overview  
